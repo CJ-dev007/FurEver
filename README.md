@@ -154,11 +154,18 @@ Mounted at `/api/applications`.
 
 Static files (including uploaded animal images) are served from `server/public`, e.g. `/uploads/animals/<filename>.jpg`.
 
-## Team
+## Team & Contributions
+This project was built as a collaborative effort by **FurEverTeam**. 
 
-Built by **FurEverTeam**:
-- Linda
-- Chatie
+- **Chatie Jonsén** 
+  - **Responsive Frontend Navigation & UI:** Built a fully responsive global navigation header featuring a mobile-friendly hamburger menu.
+  - **Accessibility (WCAG Compliance):** Implemented accessibility best practices throughout the navigation infrastructure, ensuring full keyboard navigability (tabbing support) and semantic HTML structure.
+  - **Brand Assets:** Designed the project's official visual brand assets, including the custom *FurEver logo*.
+  - **Admin Application Management:** Developed the back-office business logic allowing administrators to track, update, and manage incoming adoption application statuses.
+  - **Client-Side Storage:** Engineered a persistent wishlist feature using browser `localStorage` to allow users to save their favorite animals across sessions.
+
+*Supported by the awesome team contributors:*
+- Linda Berglund (@brideofxan)
 - Sebastian
 - Sagal
 
