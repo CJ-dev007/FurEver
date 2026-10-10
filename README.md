@@ -165,7 +165,7 @@ This project was built as a collaborative effort by **FurEverTeam**.
   - **Client-Side Storage:** Engineered a persistent wishlist feature using browser `localStorage` to allow users to save their favorite animals across sessions.
 
 *Supported by the awesome team contributors:*
-- Linda Berglund (@brideofxan)
+- Linda 
 - Sebastian
 - Sagal
 
